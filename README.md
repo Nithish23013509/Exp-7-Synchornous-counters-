@@ -55,7 +55,7 @@ endmodule
 
 ![293053425-61101a6c-3bc6-4673-8f28-a6cc96261e20](https://github.com/Nithish23013509/Exp-7-Synchornous-counters-/assets/149038138/5f76ff22-b25d-4eaa-a13a-b2941bd14163)
 
-#TIMING DIAGRAM FOR UP COUNTER
+# TIMING DIAGRAM FOR UP COUNTER
 
 ![293053302-503e5497-1348-4cfe-8cb9-f85522c71464](https://github.com/Nithish23013509/Exp-7-Synchornous-counters-/assets/149038138/5914f8de-70d8-4831-b092-deb933eec141)
 
@@ -66,7 +66,7 @@ endmodule
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
 This type of counter is normally referred to as a Down Counter, (CTD). In a binary or BCD down counter, the count decreases by one for each external clock pulse from some preset value. Special dual purpose IC’s such as the TTL 74LS193 or CMOS CD4510 are 4-bit binary Up or Down counters which have an additional input pin to select either the up or down count mode.
-![image](https://user-images.githubusercontent.com/36288975/169644844-1a14e123-7228-4ed8-81a9-eb937dff4ac8.png)
+
 
 
 
